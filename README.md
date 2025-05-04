@@ -1,2 +1,2 @@
 # demo
-This is demo repository for Git &amp; Github class.
+This is demo repository (1st repo) for Git &amp; Github class.
